@@ -1,0 +1,97 @@
+{% extends "cabo/_layout.html" %}
+{% set current_page = "Contact" %}
+
+{% block js %}
+<script language="JavaScript" type="text/JavaScript">
+function escramble(user,domain){
+ var a,b,c,d,e,f,g,h,i
+ a='<a href=\"mai'
+ b=user
+ c='\">'
+ a+='lto:'
+ b+='@'
+ e='</a>'
+ f=''
+ b+=domain
+ g='<img src=\"'
+ h=''
+ i='\" alt="Email us." border="0">'
+ if (f) d=f
+ else if (h) d=g+h+i
+ else d=b
+ document.write(a+b+c+d+e)
+}
+function escrambleimg(user,domain,imagesrc){
+ var a,b,c,d,e,f,g,h,i
+ a='<a href=\"mai'
+ b=user
+ c='\">'
+ a+='lto:'
+ b+='@'
+ e='</a>'
+ f=''
+ b+=domain
+ g='<img src=\"'
+ h=imagesrc
+ i='\" alt="Email us." border="0">'
+
+ if (f) d=f
+ else if (h) d=g+h+i
+ else d=b
+
+ document.write(a+b+c+d+e)
+}
+</script>
+{% endblock %}
+
+{% block body %}
+<H2>Contact Information</H2>
+ <div id="boxcontact">
+	
+	        <p ><b>For The Scripps Research Institute:</b></p>
+	        <p >Rebecca Wu<br>
+			       
+              Email:
+              <script>escramble("wilsonad","scripps.edu")</script><br>
+       Tel +1 (858) 784-2939<br>
+        </p>
+			  
+			
+			  <p> <b>For UCSF:</b></p>
+	        <p>Steven Ha<br>
+			       
+              Email:
+              <script>escramble("Steve.Ha","ucsf.edu")</script><br>
+	        </p>
+	      
+  </div>
+			  
+		    <div id="boxorganizers"> 
+	      
+		    <H2>Organizing Committee
+	        </H2>
+		
+			
+			<p><b>For The Scripps Research Institute:</b></p>
+			<p>Ian Wilson, Ph.D.<br>
+		Professor, SCRIPPS Research Institute</p>
+			
+			<p><b>For UCSF: </b></p>
+			<p>Daniel V. Santi, M.D., Ph.D.<br>			
+				Professor,  UCSF 	</p>
+			<p > Andrej Sali, Ph.D. <br>
+			Professor, UCSF
+			</p>
+
+	<p>Bob Stroud, Ph.D. <br>Professor, UCSF	
+	</p>
+
+	<p>Bill Degrado, Ph.D. <br>Professor, UCSF	
+	</p>
+
+			<p><b>For Berkeley: </b></p>
+	<p>Andy Martin, Ph.D. <br>Professor, Berkeley
+	</p>
+ 	 		
+</div> 
+{% endblock %}

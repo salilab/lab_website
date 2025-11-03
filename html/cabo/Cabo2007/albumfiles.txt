@@ -1,0 +1,53 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# To revert to filename or date ordering, remove or rename this file
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+May 02 2007 CABO 001.jpg	/Users/karin/Desktop/May 02 2007 CABO 001.jpg
+May 02 2007 CABO 057.jpg	/Users/karin/Desktop/May 02 2007 CABO 057.jpg
+IMG_0256.jpg	/Users/karin/Pictures/IMG_0256.jpg
+IMG_0320.jpg	/Users/karin/Pictures/IMG_0320.jpg
+IMG_0347.JPG	/Users/karin/Pictures/IMG_0347.JPG
+IMG_0350.JPG	/Users/karin/Pictures/IMG_0350.JPG
+IMG_0352.JPG	/Users/karin/Pictures/IMG_0352.JPG
+IMG_0354.JPG	/Users/karin/Pictures/IMG_0354.JPG
+IMG_0355.JPG	/Users/karin/Pictures/IMG_0355.JPG
+IMG_0356.JPG	/Users/karin/Pictures/IMG_0356.JPG
+IMG_0357.JPG	/Users/karin/Pictures/IMG_0357.JPG
+IMG_0358.JPG	/Users/karin/Pictures/IMG_0358.JPG
+IMG_0359.JPG	/Users/karin/Pictures/IMG_0359.JPG
+IMG_0360.JPG	/Users/karin/Pictures/IMG_0360.JPG
+IMG_0361.JPG	/Users/karin/Pictures/IMG_0361.JPG
+IMG_0362.JPG	/Users/karin/Pictures/IMG_0362.JPG
+IMG_0363.JPG	/Users/karin/Pictures/IMG_0363.JPG
+IMG_0364.JPG	/Users/karin/Pictures/IMG_0364.JPG
+IMG_0367.JPG	/Users/karin/Pictures/IMG_0367.JPG
+IMG_0368.JPG	/Users/karin/Pictures/IMG_0368.JPG
+IMG_0373.JPG	/Users/karin/Pictures/IMG_0373.JPG
+IMG_0374.JPG	/Users/karin/Pictures/IMG_0374.JPG
+IMG_0377.JPG	/Users/karin/Pictures/IMG_0377.JPG
+IMG_0380.JPG	/Users/karin/Pictures/IMG_0380.JPG
+IMG_0386.JPG	/Users/karin/Pictures/IMG_0386.JPG
+IMG_0387.JPG	/Users/karin/Pictures/IMG_0387.JPG
+IMG_0388.JPG	/Users/karin/Pictures/IMG_0388.JPG
+IMG_0398.JPG	/Users/karin/Pictures/IMG_0398.JPG
+IMG_0409.JPG	/Users/karin/Pictures/IMG_0409.JPG
+IMG_0410.JPG	/Users/karin/Pictures/IMG_0410.JPG
+IMG_0411.JPG	/Users/karin/Pictures/IMG_0411.JPG
+IMG_0412.JPG	/Users/karin/Pictures/IMG_0412.JPG
+IMG_0413.JPG	/Users/karin/Pictures/IMG_0413.JPG
+IMG_0414.JPG	/Users/karin/Pictures/IMG_0414.JPG
+IMG_0415.JPG	/Users/karin/Pictures/IMG_0415.JPG
+IMG_1032.jpg	/Users/karin/Pictures/IMG_1032.jpg
+May 02 2007 CABO 059.jpg	/Users/karin/Desktop/May 02 2007 CABO 059.jpg
+May 02 2007 CABO 071.jpg	/Users/karin/Desktop/May 02 2007 CABO 071.jpg
+May 02 2007 CABO 067.jpg	/Users/karin/Desktop/May 02 2007 CABO 067.jpg
+May 02 2007 CABO 066.jpg	/Users/karin/Desktop/May 02 2007 CABO 066.jpg
+May 02 2007 CABO 068.jpg	/Users/karin/Desktop/May 02 2007 CABO 068.jpg
+May 02 2007 CABO 074.jpg	/Users/karin/Desktop/May 02 2007 CABO 074.jpg
+May 02 2007 CABO 062.jpg	/Users/karin/Desktop/May 02 2007 CABO 062.jpg
+May 02 2007 CABO 064.jpg	/Users/karin/Desktop/May 02 2007 CABO 064.jpg
+May 02 2007 CABO 021.jpg	/Users/karin/Desktop/May 02 2007 CABO 021.jpg
+May 02 2007 CABO 075.jpg	/Users/karin/Desktop/May 02 2007 CABO 075.jpg

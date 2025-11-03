@@ -1,0 +1,96 @@
+/*	Default for body background color, font style and alignment */
+
+body {  font-family: Arial, Helvetica, sans-serif; 
+	font-size: 10pt; 
+	text-align: left; 
+; color: #333333
+}
+
+h1 { font-size: 12pt;
+	text-align: left;
+ color:#333333;
+; font-family: Arial, Helvetica, sans-serif
+}
+
+h2 { font-size: 11pt;
+ color:#333333;
+;
+; font-family: Arial, Helvetica, sans-serif
+}
+
+h3 { font-size: 11pt;
+ color:#FFFFFF;
+;
+; font-family: Arial, Helvetica, sans-serif
+; background-color: #909CD0
+; padding-top: 2px; padding-bottom: 2px; padding-left: 10px
+; font-weight: bold
+; margin-top: 25px
+}
+
+h4 { font-size: 12pt;
+	text-align: left;
+ color:#3333CC;
+; font-family: Arial, Helvetica, sans-serif
+}
+
+p { color:#333333;
+; font-size: 10pt
+}
+table, tbody, td, tr  {
+   font-size: 10pt;
+}
+b { font-weight: bold; 
+}
+
+.text {
+	font-size: 10pt;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/*	Define the link, active, visited, and hover states of the <a> tag. */
+
+a:link { color:#003399; }
+a:active { color:#FF00FF; }
+a:visited { color:#003399; }
+a:hover { color:#909CD0; }
+
+/*	variations on the <p> tag 
+*/
+
+p.bold { font-weight: bolder; }
+p.smallest { font-size: 8pt}
+
+.gridline {  background-color: #255599
+}
+.bullet {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-position: inside;
+	list-style-type: disc;
+}
+
+.harsold {background-color:#909CD0; border-bottom: 1px solid #E0E3D8;
+}
+
+.hars {background-color:#ffffff; border: 1px solid #0000ff;
+}
+
+.textheading {
+	font-size: 10pt;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight : bold;
+}
+
+.border1a{ border-bottom: 1px solid #000000;  }
+
+.top {border-top: thin dashed red}
+.right {border-right: medium solid navy}
+.bottom {border-bottom: thick groove green}
+.left {border-left: 10px double maroon}
+
+.t1      {      
+                border: 8px solid #909CD0;
+				}

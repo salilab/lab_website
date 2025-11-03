@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="robots" content="all"/>
+<meta name="description" content="Homepage of the Scripps/UCSF Conference in Cabo San Lucas" />
+<meta name="keywords" content="Andrej Sali,Scripps, TSRI, Conference, Cabo, Cabo San Lucas, Santi, Wilson, El Presidente, UCSF" />
+    <meta name="author" content="Karin Asensio"/>
+    <link rel="stylesheet" type="text/css" href="css/cabo.css"/>
+{%- block js %}
+{%- endblock %}
+
+{% set navigation_bar = [
+  ('/', 'Home'),
+  ('/program.html', 'Program'),
+  ('/contact.html', 'Contact'),
+  ('/register.html', 'Register'),
+  ('/history.html', 'History')
+  ] -%}
+
+<title>
+{%- block title -%}
+Scripps/UCSF Conference
+{%- endblock -%}
+</title>
+</head>
+
+<body>
+
+<div id="wrapper">
+<img src="img/banner_logo.jpg" alt="" width="798" height="111" style="margin-bottom:0px;" />
+
+<!-- Navbar  -->   
+  			   <div id="navbar">
+                <ul>
+                {% for href, page in navigation_bar -%}
+                  <li>{% if page == current_page %} id="current"{% endif %}><a href="//salilab.org/cabo{{ href }}" title="{{ page }}">{{ page }}</a></li>
+                {% endfor -%}
+                </ul>
+</div>
+ <!-- END Navbar  -->
+  
+
+
+<!-- main content  -->
+
+<div id="container">
+
+<!-- left bar  -->
+
+<div id="left">
+<H2>Sponsors</H2>
+
+<div id="sponsors">
+<ul>
+<li>
+  <div id="sponsors2">
+    <ul>
+  <li><a href="https://rectifypharma.com/" rel="noopener noreferrer" target="_blank">Rectify Pharma</a></li>
+  <li><a href="https://www.alveole.buzz/" rel="noopener noreferrer" target="_blank">alv&eacute;ole</a></li>
+  <li><a href="https://agi.org/" rel="noopener noreferrer" target="_blank">Agouron Institute</a></li>
+  <li><a href="https://altoslabs.com/" rel="noopener noreferrer" target="_blank">Altos</a></li>
+  <li><a href="https://www.gene.com/" rel="noopener noreferrer" target="_blank">Genentech</a></li>
+  <li><a href="https://www.lilly.com/" rel="noopener noreferrer" target="_blank">Lilly</a></li>
+  <li><a href="https://ficms.as.miami.edu/" rel="noopener noreferrer" target="_blank">Frost Institute</a></li>
+  <li><a href="https://www.scripps.edu/"  rel="noopener noreferrer" target="_blank">The Scripps Research Institute</a></li>
+  <li><a href="https://www.ucsf.edu/" rel="noopener noreferrer" target="_blank">UCSF</a></li>
+  <li><a href="https://pharmacy.ucsf.edu/" rel="noopener noreferrer" target="_blank">UCSF, School of Pharmacy</a></li>
+  <li><a href="https://pharmacy.ucsf.edu/qbi" rel="noopener noreferrer" target="_blank">UCSF, Quantitative Biosciences Institute</a></li>
+    </ul>
+  </div>
+</li>
+
+</ul>
+</div>
+<!-- END left bar  -->
+</div>
+
+<!-- middle content  -->
+<div id="middle">
+{%- block body %}
+{%- endblock %}
+</div>
+<!-- END middle content  -->
+<!-- right content  -->
+
+<div id="right">
+<a href="http://www.scripps.edu" title="TSRI" target="blank"><img src="img/tsri_logo.png" alt="tsri" width="82" /></a><br />
+<a href="http://pharmacy.ucsf.edu" title="UCSF" target="blank"><img style="margin-top:30px; margin-bottom:20px;" src="img/ucsf_pharmacy_logo.png" alt="ucsf" width="82" /></a><br />
+<a href="https://qbi.ucsf.edu/" title="QBI" target="blank"><img src="img/qbi.png" alt="qbi" width="82" /></a></div>
+<!-- END right content  -->
+
+<div id="footer">
+Copyright &copy; UCSF 2007-2025 | <a style="color:#333333;" href="https://salilab.org/cabo/wiki/">Admin</a>
+</div>
+
+
+</div>
+<!-- END  content  -->
+<!-- END wrapper  -->
+</div>
+</body>
+</html>

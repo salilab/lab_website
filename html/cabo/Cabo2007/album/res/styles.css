@@ -1,0 +1,15 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	overflow:hidden;
+	margin:0;
+}
+
+
+#BananAlbum {
+	width:100%; height:100%; position:absolute; z-index:100; left:0px; top:0px;
+}
+
+/*
+ * BananAlbum | www.BananAlbum.net | 2007
+ */
