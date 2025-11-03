@@ -33,7 +33,7 @@ Scripps/UCSF Conference
   			   <div id="navbar">
                 <ul>
                 {% for href, page in navigation_bar -%}
-                  <li>{% if page == current_page %} id="current"{% endif %}><a href="//salilab.org/cabo{{ href }}" title="{{ page }}">{{ page }}</a></li>
+                  <li{% if page == current_page %} id="current"{% endif %}><a href="//salilab.org/cabo{{ href }}" title="{{ page }}">{{ page }}</a></li>
                 {% endfor -%}
                 </ul>
 </div>
