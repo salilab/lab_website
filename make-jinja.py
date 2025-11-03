@@ -26,9 +26,19 @@ def install(filename, srcdirpath, destdirpath):
 def render(env, reldirpath, destdirpath, filename):
     dest = destdirpath / filename
     template = env.get_template(str(reldirpath / filename))
-    print(f"render {dest}")
-    with open(dest, 'w') as fh:
-        fh.write(template.render())
+    if dest.exists():
+        # Only update dest if contents differ
+        with open(dest) as fh:
+            old_contents = fh.read()
+        new_contents = template.render()
+        if new_contents != old_contents:
+            print(f"render {dest}")
+            with open(dest, 'w') as fh:
+                fh.write(new_contents)
+    else:
+        print(f"render {dest}")
+        with open(dest, 'w') as fh:
+            fh.write(template.render())
 
 
 def install_dir(srcdir, destdir):
