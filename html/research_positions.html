@@ -1,0 +1,57 @@
+{% extends "_layout.html" %}
+
+{% block js %}
+<script type="text/javascript"><!--
+/* e-mail obfuscation adapted from code by Jason Johnston:
+   http://lojjic.net/blog/20030828-142754.rdf.html
+*/
+function linkEmail() {
+  if(!document.getElementsByTagName) return;
+  var allElts = document.getElementsByTagName("*");
+  if(allElts.length == 0 && document.all)
+    allElts = document.all; //hack for IE5
+  for(var i=0; i<allElts.length; i++) {
+    var elt = allElts[i];
+    var className = elt.className || elt.getAttribute("class")
+      || elt.getAttribute("className");
+    if(className && className.match(/\be-mail\b/)
+        && elt.firstChild.nodeType == 3) {
+      var alls = elt.firstChild.nodeValue;
+      fs= alls.split("|")
+      addr = fs[0].replace(/\ at\ /i, "@")
+        .replace(/\ (dot|period)\ /gi, ".");
+      var lnk = document.createElement("a");
+      lnk.setAttribute("href","mailto:"+addr);
+      lnk.appendChild(document.createTextNode(fs[1]));
+      elt.replaceChild(lnk, elt.firstChild);
+    }
+  }
+}
+window.onload = linkEmail;
+-->
+</script>
+{% endblock %}
+
+{% block body %}
+<div id="fullpart">
+            <h3>Research Positions</h3>
+        <p>Excellent postdocs interested in protein structure and function are always encouraged to
+        apply, by sending an email to <span class="e-mail">sali at salilab.org | Andrej Sali</span>.</p>
+
+        <p>In contrast, prospective graduate students interested in the Ph.D. or M.D.- Ph.D. program
+        should contact the
+        <a href="http://graduate.ucsf.edu">School's Graduate Division Office</a>
+        or follow the links on our <a href="/graduate_school.html">Graduate School</a> web page.</p>
+
+
+<p><br/></p>
+<hr>
+<p><br/></p>
+
+<p><a href="/positions/pd_qbi_22.html">Postdoctoral positions at QBI @ UCSF</a></p>
+
+<p><a href="/positions/pd_rcsb_22.html">Postdoctoral position in structural bioinformatics at RCSB @ UCSF</a></p>
+
+
+</div> <!-- end div fullpart -->
+{% endblock %}
