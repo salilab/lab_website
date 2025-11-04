@@ -1,0 +1,59 @@
+{% extends "_layout.html" %}
+
+{% block body %}
+<div id="fullpart">
+<p>&nbsp;</p>
+            <h2>SOAP</h2>
+<p></p>
+ <p>All of the SOAP potentials listed here can be used in
+<a href="//integrativemodeling.org/">IMP (2.2.0 or later)</a> or
+<a href="//salilab.org/modeller/">Modeller (9.13 or later)</a>.</p>
+
+<h3>SOAP-PP</h3>
+<p><tt>soap_pp_atom.hdf5</tt> and <tt>soap_pp_pair.hdf5</tt> are distributed
+with Modeller (in the <tt>modlib</tt> directory) and can be used with the
+<a href="https://salilab.org/modeller/9.19/manual/node287.html">soap_pp.Assessor</a>
+class. Equivalently in IMP, <tt>soap_score_sas.lib</tt> and
+<tt>soap_score.lib</tt> store the same data, are distributed with the
+<tt>IMP.score_functor</tt> module, and can be used with the
+<a href="https://integrativemodeling.org/2.8.0/doc/ref/classIMP_1_1score__functor_1_1SingletonStatistical.html">IMP.score_functor.SingletonStatistical</a>
+and
+<a href="https://integrativemodeling.org/2.8.0/doc/ref/classIMP_1_1score__functor_1_1Soap.html">IMP.score_functor.Soap</a>
+classes, respectively.
+</p>
+
+<p>
+Sets of training decoys for SOAP-PP: <a href="pp_small.tar.gz">pp_small.tar.gz</a><br>
+Sets of testing decoys for SOAP-PP: <a href="pp_small.tar.gz">pp_small.tar.gz</a>, <a href="http://zlab.umassmed.edu/zdock/decoys.shtml">link to the ZDOCK decoys</a>.<br>
+
+Original script for using SOAP-PP to assess loop structures (requires <a href="//salilab.org/modeller">Modeller</a> and <a href="//salilab.org/mdt">MDT</a>): <a href="soap_pp.tar.gz">soap_pp.tar.gz</a>.<br>
+</p>
+
+
+<h3>SOAP-Loop</h3>
+<p><a href="soap_loop.hdf5">SOAP-Loop library file</a>. For use with
+<a href="//integrativemodeling.org/">IMP (2.2.0 or later)</a> or
+<a href="//salilab.org/modeller/">Modeller (9.13 or later)</a>.</p>
+
+<p>
+Sets of training decoys for SOAP-Loop: <a href="loop.tar.xz">loop.tar.xz</a>.<br>
+Sets of testing decoys for SOAP-Loop: <a href="http://www.jacobsonlab.org/decoy.htm" target=_blank>link to PLOP loop decoys</a>.<br>
+Original script for using SOAP-Loop to assess loop structures (requires <a href="//salilab.org/modeller">Modeller</a> and <a href="//salilab.org/mdt">MDT</a>): <a href="soap_loop.tar.gz">soap_loop.tar.gz</a>.<br>
+</p>
+
+<h3>SOAP-Peptide</h3>
+<p><a href="soap_peptide.hdf5">SOAP-Peptide library file</a>. For use with
+<a href="//integrativemodeling.org/">IMP (2.2.0 or later)</a> or
+<a href="//salilab.org/modeller/">Modeller (9.13 or later)</a>.</p>
+
+<h3>SOAP-Protein</h3>
+<p><a href="soap_protein_od.hdf5">SOAP-Protein library file</a>. For use with
+<a href="//integrativemodeling.org/">IMP (2.2.0 or later)</a> or
+<a href="//salilab.org/modeller/">Modeller (9.13 or later)</a>.</p>
+
+<h3>Source code and documentation</h3>
+<p>SOAP source code can be found <a href="https://github.com/salilab/SOAP">on
+github</a>. Documentation is <a href="doc">also available</a>.</p>
+
+</div> <!-- end div fullpart -->
+{% endblock %}
