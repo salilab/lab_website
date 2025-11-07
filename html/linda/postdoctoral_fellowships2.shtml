@@ -1,0 +1,79 @@
+<html>
+
+<head>
+<title>Andrej Sali Lab</title>
+</head>
+
+<body bgcolor="#ffffff" link="#000080" vlink="#000080" alink="#000080">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr align="left">
+      <td>
+      <a href="http://www.rockefeller.edu">
+      <img src="/gifs/RU_logo_round.gif"
+       border=0 halign="left"
+       alt="Home Page of The Rockefeller University"></a>
+   </td>
+   <td align="center">
+      <font face="Helvetica,Verdana,Arial" color="#000080">
+      <h2>Andrej Sali Lab</h2></font>
+      <font face="Helvetica,Verdana,Arial" size=+2 color="#990000">
+      <b>Laboratory of Molecular Biophysics</b></font><br>
+      <font face="Helvetica,Verdana,Arial" color="#990000">
+      Pels Family Center for Biochemistry and Structural Biology</font>
+   </td>
+   <!-- <td align="right">
+   <a href="http://pipe.rockefeller.edu/modbase/">
+   <img src="/gifs/modbase_small5.gif"
+        border=0 halign="right"
+        alt="Modbase"></a>
+   </td> -->
+
+   <td ALIGN=RIGHT>
+       <a href="http://guitar.rockefeller.edu/our_resources.shtml">
+       <img SRC="/gifs/lab_resources_animation_2.gif" ALT="http://guitar.rockefeller.edu/our_resources.shtml" BORDER=0 halign="right"></a>
+   </td>
+</tr>
+</table>
+
+<table border="0" cellpadding="4" cellspacing="0" width="100%">
+<tr>
+   <td colspan="2" bgcolor="#B0BDCE" nowrap>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+         <td align="right" valign="middle">
+             <font face="Helvetica,Verdana,Arial" color="0078BD">
+             <b>Postdoctoral Fellowships</b></font>
+         </td>
+      </tr>
+      </table>
+   </td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#B0BDCE" nowrap rowspan="2">
+<table border="0" cellpadding="2" cellspacing="0">
+<tr> 
+   <td valign="top" nowrap>
+      <p><br>
+         <!--#exec cmd="cat scripts/postdoctoral_fellowships2_menu"-->
+         <!--#exec cmd="cat scripts/our_resources_menu"-->
+         <br>
+      </p>
+   </td>
+</tr>
+</table>
+</td>
+
+<!--  START MAIN PAGE -->
+<td valign="top" BACKGROUND="../bckg.gif" width="80%">
+    <p><br>
+    <!--#exec cmd="cat scripts/postdoctoral_fellowships.html"-->
+</td>
+
+
+</tr>
+</table>
+
+</body>
+</html>            
+ 
+

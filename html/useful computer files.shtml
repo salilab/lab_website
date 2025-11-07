@@ -1,0 +1,415 @@
+<html><!-- InstanceBegin template="/Templates/lab-template.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+<title>Andrej Sali Lab</title>
+<script language="JavaScript" type="text/JavaScript">
+/*
+Random Image Link Script
+By Website Abstraction (http://www.wsabstract.com)
+and Java-scripts.net (http://www.java-scripts.net)
+*/
+
+function random_imglink(){
+  var myimages=new Array()
+  //specify random images below. You can have as many as you wish
+  myimages[1]="rand_images/nucleopore.gif"
+  myimages[2]="rand_images/ribosome.gif"
+  myimages[3]="rand_images/yeast.gif"
+
+  //specify corresponding links below
+  var imagelinks=new Array()
+  imagelinks[1]="http://salilab.org"
+  imagelinks[2]="http://salilab.org"
+  imagelinks[3]="http://salilab.org/modbase"
+
+  var ry=Math.floor(Math.random()*myimages.length)
+
+  if (ry==0)
+     ry=1
+     document.write('<a href='+'"'+imagelinks[ry]+'"'+'><img src="'+myimages[ry]+'" border=0></a>')
+}
+
+function escramble(user,domain){
+ var a,b,c,d,e,f,g,h,i
+ a='<a href=\"mai'
+ b=user
+ c='\">'
+ a+='lto:'
+ b+='@'
+ e='</a>'
+ f=''
+ b+=domain
+ g='<img src=\"'
+ h=''
+ i='\" alt="Email us." border="0">'
+ if (f) d=f
+ else if (h) d=g+h+i
+ else d=b
+ document.write(a+b+c+d+e)
+}
+function escrambleimg(user,domain,imagesrc){
+ var a,b,c,d,e,f,g,h,i
+ a='<a href=\"mai'
+ b=user
+ c='\">'
+ a+='lto:'
+ b+='@'
+ e='</a>'
+ f=''
+ b+=domain
+ g='<img src=\"'
+ h=imagesrc
+ i='\" alt="Email us." border="0">'
+
+ if (f) d=f
+ else if (h) d=g+h+i
+ else d=b
+
+ document.write(a+b+c+d+e)
+}
+
+</script>
+<link href="css/salilab.css" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="#ffffff" link="#000088" vlink="#000088" alink="#000088">
+<!-- <body bgcolor="#ffffff"> -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr align="left">
+      
+    <td> <a href="http://www.ucsf.edu"> <img src="/gifs/ucsf-logo-r2.jpg"
+       border=0 halign="center" align="right"
+       alt="Home Page of UCSF"></a> </td>
+   </td>
+   <td align="center">
+      <font face="Helvetica,Verdana,Arial" color="#000080">
+      <h2>Andrej Sali Lab</h2>
+      </font> 
+	  <div class="toplink"><a href="http://www.ucsf.edu">University of California, San Francisco</a><br>   
+	  Departments of <a href="http://www.ucsf.edu/dbps/">Biopharmaceutical Sciences</a> and
+	  <a href="http://pcweb.ucsf.edu/">Pharmaceutical Chemistry</a>, and <br> 
+	  <a href="http://www.qb3.org" >California Institute for Quantitative Biomedical Research</a></div>
+      &nbsp;
+      </font>
+   </td>
+   <!-- <td align="right">
+   <a href="http://salilab.org/modweb">
+   <img src="/gifs/modweb1_small3.gif"
+        border=0 halign="right"
+        alt="ModWeb"></a>
+   </td> -->
+
+   <td ALIGN=RIGHT>
+       <a href="http://salilab.org/our_resources.shtml">
+       <img SRC="/gifs/lab_resources_animation_2.gif" ALT="http://salilab.org/our_resources.shtml" BORDER=0 halign="right">
+   </td>
+
+   <!-- <td align="right">
+   <a href="http://www.rcsb.org/pdb/cgi/explore.cgi?pdbId=1G61">
+   <img src="/gifs/1G61x250_small6.gif"
+        border=0 halign="right"
+        alt="PDB_1G61"></a>
+   </td> -->
+   <!-- <td width="20%"><br></td> -->
+</tr>
+</table>
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+   <td colspan="2" bgcolor="#B0BDCE" nowrap>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+         <td align="right" valign="middle">
+         <font face="Helvetica,Verdana,Arial" color="0078BD">
+          <!-- InstanceBeginEditable name="EditRegion4" --><b>Useful Computer Files
+		  </b><!-- InstanceEndEditable --></font>
+         </td>
+      </tr>
+      </table>
+   </td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#B0BDCE" nowrap rowspan="3">
+<table border="0" cellpadding="2" cellspacing="0">
+<tr>
+   <td valign="top" nowrap>
+      <p><br>
+                  <!-- <font color="#0068bd" face="Helvetica,Verdana,Arial" size=+1> -->
+         <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://salilab.org/index.shtml">
+         <b>Home</b></a></font>
+         </p>
+
+         <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://salilab.org/lab_members.shtml">
+         <b>Lab Members</b></a></font>
+         </p>
+         
+         <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://salilab.org/publications/">
+         <b>Publications</b></a></font>
+         </p>
+
+         <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="https://salilab.org/private/lab_pages.shtml">
+         <b>Lab Pages</b></a></font>
+         </p>
+		 		         
+         <p>
+         <font color="#0078BD" face="Helvetica,Verdana,Arial">
+         <a href="http://salilab.org/bioinformatics_resources.shtml"><b>Bioinformatics Resources</b></a></font>
+         </p>
+		 
+		 <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://www.computationalproteomics.org/">
+         <b>Center for Computational Proteomics</b> </a></font>
+         </p>
+		 
+		 <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://www.tropicaldisease.org/">
+         <b>Tropical Disease Initiative</b> </a></font>
+         </p>
+         
+         <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://www.nysgrc.org/">
+         <b>Structural Genomics, NYSGRC</b></a></font>
+         </p>
+		 
+		 <p>
+		  <font face="Helvetica,Verdana,Arial"> <a href="http://salilab.org/graduate_school.htm"> 
+          <b>Graduate School</b></a></font>
+		   </p>
+         
+         <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://salilab.org/research_positions.shtml">
+         <b>Research Positions</b></a></font>
+         </p>
+ 
+         <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://salilab.org/postdoctoral_fellowships.shtml">
+         <b>Postdoctoral Fellowships</b></a></font>
+         </p>
+
+         <p>
+         <font face="Helvetica,Verdana,Arial">
+         <a href="http://salilab.org/directions.shtml">
+         <b>Directions & Maps</b></a></font>
+         </p>
+
+         <p><font face="Helvetica,Verdana,Arial">
+           <a href="http://salilab.org/our_resources.shtml">
+           <b>Our Resources</b></a></font>           </p>
+         <p><br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <a href="http://salilab.org/DBAli/">
+             DBAli</a></font>
+    
+
+              <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <a href="http://salilab.org/~eva/">
+             EVA</a></font>
+    
+
+              <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <a href="http://www.nysgxrc.org/nysgrc/icedb.html">
+             IceDB</a></font>
+    
+             <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <a href="http://salilab.org/ligbase/">
+             LigBase</a></font>
+    
+             <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <a href="http://salilab.org/modbase/">
+             ModBase</a></font>
+    
+             <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <a href="http://salilab.org/modeller/modeller.html">
+             MODELLER</a></font>
+    
+             <br>
+&nbsp;&nbsp;  
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0   
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <!-- <a href="http://pipe.rockefeller.edu/cysredox/modloop/linda-modloop.html"> -->
+              <a href="http://salilab.org/modloop/modloop.html">
+             ModLoop</a></font>
+    
+             <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0   
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <a href="http://salilab.org/modview/modview2.shtml">
+             ModView</a></font>
+    
+             <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <!-- <a href="http://pipe.rockefeller.edu/mwtest"> -->
+              <a href="http://salilab.org/modweb">
+             ModWeb</a></font>
+    
+             <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <!-- <a href="http://alto.rockefeller.edu/SNPWeb-cgi//snpweb.cgi"> -->  
+              <a href="http://salilab.org/SNPWeb">
+             SNPWeb</a></font>
+    
+             <br>
+&nbsp;&nbsp;
+             <img src="http://salilab.org/gifs/ball102.gif"
+              border=0
+              alt="Small Arrow">
+              <font face="Helvetica,Verdana,Arial">
+              <a href="http://salilab.org/srs6/">
+             SRS</a></font>
+    
+
+              <br>
+            </p>
+                 </p></td>
+</tr>   
+</table>
+</td>
+
+<!-- <td width=100%" BACKGROUND="bckg.gif"> -->
+<td background="bckg.gif" width=80%" valign="top"><center><font face="Helvetica,Verdana,Arial" color="#000080">
+<h3><!-- InstanceBeginEditable name="EditRegion1" -->Useful Computer Files 
+          <!-- InstanceEndEditable --></h3>
+<!-- InstanceBeginEditable name="EditRegion5" --><!-- InstanceEndEditable -->
+
+</font>
+</center>
+<hr>
+<!-- InstanceBeginEditable name="EditRegion2" -->
+	  <table width="600" border="0">
+      <tr> 
+        <td><p><font color="#000080" size="3" face="Arial, Helvetica, sans-serif"><strong>Templates 
+            for Manuscripts, Power Point Slides and Reference Manager Files</strong></font></p></td>
+      </tr>
+      <tr> 
+        <td>&nbsp;</td>
+      </tr>
+      <tr> 
+        <td><ul>
+            <li><a href="https://salilab.org/private/sample_templates/template.doc" class="link"><font size="3">Sample 
+              Manuscript Template</font></a></li>
+          </ul></td>
+      </tr>
+      <tr> 
+        <td><ul>
+            <li><font size="3"><a href="https://salilab.org/private/sample_templates/sample.ppt" class="link">Sample 
+              Powerpoint Template</a></font></li>
+          </ul></td>
+      </tr>
+      <tr> 
+        <td><ul>
+            <li><a href="https://salilab.org/private/sample_templates/proteasome.rmd" class="link"><font size="3">Sample 
+              Reference Manager File 1</font></a> <font color="#990000" size="2" face="Arial, Helvetica, sans-serif">(to download 
+              use Right-Button and Save Link As...)</font></li>
+          </ul></td>
+      </tr>
+      <tr> 
+        <td><ul>
+            <li><font size="3"><a href="https://salilab.org/private/sample_templates/proteasome.rmx" class="link">Sample 
+              Reference Manager File 2</a> <font color="#990000" size="2" face="Arial, Helvetica, sans-serif">(to 
+              download use Right-Button and Save Link As...)</font></font></li>
+          </ul></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+    <table width="600" border="0">
+      <tr> 
+        <td><p><font color="000080" size="3" face="Arial, Helvetica, sans-serif"><strong>Useful 
+            Papers</strong></font></p></td>
+      </tr>
+      <tr> 
+        <td>&nbsp;</td>
+      </tr>
+      <tr> 
+        <td><ul>
+            <li><a href="http://salilab.org/useful_papers/combining_information_papers.zip/" class="link">On
+			 Combining Information from Multiple Sources </a></li>
+          </ul></td>
+      </tr>
+	  <tr> 
+        <td><ul>
+            <li><a href="http://salilab.org/useful_papers/macro_assembly_structures/" class="link">On 
+              Determining Macromolecular Assembly Structures</a></li>
+          </ul></td>
+      </tr>
+      <tr> 
+        <td><ul>
+            <li><a href="http://salilab.org/useful_papers/protein_structures/" class="link">On 
+              Predicting Protein Structures</a></li>
+          </ul></td>
+      </tr>
+      <tr> 
+        <td><ul>
+            <li><a href="http://salilab.org/useful_papers/protein_function_annotation/" class="link">On 
+              Structure-Based Functional Annotation of Proteins</a></li>
+          </ul></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p></th>
+</tr><!-- InstanceEndEditable -->
+<hr><i><!-- InstanceBeginEditable name="EditRegion3" --><!-- InstanceEndEditable --></i></td>
+
+</tr>
+<tr>
+  <td background="bckg.gif" valign="top">&nbsp;</td>
+</tr>
+</table>
+
+</body>
+<!-- InstanceEnd --></html>            
+ 
+

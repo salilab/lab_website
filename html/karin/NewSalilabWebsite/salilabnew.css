@@ -1,0 +1,162 @@
+
+
+div#container {
+	border-bottom-color: #999999;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-right-color: #999999;
+	border-left-color: #999999;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+	line-height: 12pt;
+	font-size: 9pt;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+div#header {
+	height: 70px;
+	width: 900px;
+}
+div#topLeftImag {
+	clear:both;
+	height: 40px;
+	width: 150px;
+}
+div#UcsfLogo {
+	clear:both;
+	margin-left:600px;
+	margin-top: 10px;
+	
+}
+
+div#qb3 {
+	clear:both;
+	margin-left:400px;
+	margin-top: 10px;
+	
+}
+div#maincontent {
+	clear: both;
+	margin-top: 200px;
+
+}
+div#introArea {
+	margin-left:100px;
+	margin-right: 500px;
+
+}
+div#MainImage {
+	clear:both;
+	margin-left:500px;
+	margin-right: 10px;
+}
+div#blocks {
+	height: 30px;
+	width: 100px;
+	background-color: #99CCFF;
+}
+/* Horizontal Navigation links */
+
+div#HorizontalNavlinks {
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-right: 3px;
+	padding-top: 0px;
+	margin-left: 10px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	border-right-color: #999999;
+	border-left-color: #999999;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	width: 755px;
+	height: 40px;
+	background-color: #333366;
+}
+
+div#HorizontalNavlinks ul {
+	text-align: right;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	margin: 0px;
+}
+
+div#HorizontalNavlinks li {
+	font-size: 9pt;
+	line-height: 20pt;
+	letter-spacing: 1px;
+	font-weight: bold;
+	display: inline;
+	list-style-type: none;
+}
+
+div#navlinks li a {
+	border-style: none;
+	color: #663300;
+	text-decoration: none;
+}
+
+div#HorizontalNavlinksli a:hover {
+	
+	text-decoration: underline;
+}
+
+#HorizontalNavlinks #current a {
+	color: #999999;
+}
+
+#footer { 
+	
+	clear:both;
+	text-align: center; 
+	}
+#footer a:link, #footer a:visited { 
+	margin-right: 20px; 
+	}
+
+/* Vertical Navigation links */
+#VerticalNavlinks {
+	background-color:#0099CC;
+	margin-right: 820px; 
+	position: absolute; 
+	top: 0; 
+	right: 0;
+	}
+#VerticalNavlinks { 
+	font: 12px verdana, sans-serif; 
+	padding: 10px; 
+	margin-top: 150px; 
+	width: 130px; 
+	}
+
+#VerticalNavlinks ul {
+	margin: 0;
+	padding: 0;
+	}
+#VerticalNavlinks li {
+	line-height: 2.5ex; 
+	background: transparent url(cr1.gif) no-repeat top center; 
+	display: block; 
+	padding-top: 5px; 
+	margin-bottom: 5px;
+	
+	}
+#VerticalNavlinks li a:link {
+	color: #988F5E;
+	border-style: none;
+	color: #663300;
+	text-decoration: none;
+	}
+#VerticalNavlinks li a:visited {
+	color: #B3AE94;
+	}
+

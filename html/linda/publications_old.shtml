@@ -1,0 +1,1595 @@
+<html>
+
+<head>
+<title>Andrej Sali Lab</title>
+</head>
+
+<body bgcolor="#ffffff" link="#000088" vlink="#000088" alink="#000088">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr align="left">
+      <td>
+      <a href="http://www.rockefeller.edu">
+      <img src="/gifs/RU_logo_round.gif"
+       border=0 halign="left"
+       alt="Home Page of The Rockefeller University"></a>
+   </td>
+   <td align="center">
+      <font face="Helvetica,Verdana,Arial" color="#000080">
+      <h2>Andrej Sali Lab</h2></font>
+      <font face="Helvetica,Verdana,Arial" size=+2 color="#990000">
+      <b>Laboratory of Molecular Biophysics</b></font><br>
+      <font face="Helvetica,Verdana,Arial" color="#990000">
+      Pels Family Center for Biochemistry and Structural Biology</font>
+   </td>
+   <td align="right">
+   <a href="http://pipe.rockefeller.edu/modbase/" target="new">
+   <img src="/gifs/modbase_small5.gif"
+        border=0 halign="right"
+        alt="Modbase"></a>
+   </td>
+
+   <!-- <td align="right">
+   <a href="http://www.rcsb.org/pdb/cgi/explore.cgi?pdbId=1jg8">
+   <img src="/gifs/1JG8x250c._small6.gif"
+        border=0 halign="right"
+        alt="PDB_1JG8"></a>
+   </td> -->
+
+   <!-- <td width="20%"><br></td> -->
+</tr>
+</table>
+
+<table border="0" cellpadding="4" cellspacing="0" width="100%">
+<tr>
+   <td colspan="2" bgcolor="#B0BDCE" nowrap>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+         <td align="right" valign="middle">
+         <font face="Helvetica,Verdana,Arial" color="#FFFFFF" size=+1>
+         <b>Publications</b></font>
+     
+         </td>
+      </tr>
+      </table>
+   </td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#B0BDCE" nowrap rowspan="2">
+<table border="0" cellpadding="2" cellspacing="0">
+<tr>
+   <td valign="top" nowrap>
+      <p><br>
+         <!--#exec cmd="cat scripts/publications_menu"-->
+         <!--#exec cmd="cat scripts/our_resources_menu"-->
+         <br>
+      </p>
+   </td>
+</tr>   
+</table>
+</td>
+
+<td valign="top" BACKGROUND="bckg.gif" width=100%" font color="#B0BDCE">
+<p><font color="#000080" face="Helvetica,Verdana,Arial" size=+1><br>
+<ol end=1>
+<li value=100>
+J. B. Bonanno, C. Edo, N. Eswar, U. Pieper, M. J. Romanowski, S. E. 
+Gerchman,
+  H. Kycia, F. W. Studier, Andrej Sali, and S. K. Burley. 
+   Structural genomics of cholesterol biosynthesis enzymes. 
+   <EM>Proc. Natl. Acad. Sci. USA</EM>, submitted, 2001.
+</li>
+<br><br>
+
+<li value=99>
+A. Sali. 
+ Target practice. 
+ <EM>Nat. Struct. Biol.</EM>, 8:482-484, 2001.
+<!-- <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$"> -->
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0" 
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+
+<a href="http://www.nature.com/cgi-taf/DynaPage.taf?file=//nsb/journal/v8/n6/full/nsb0601_482.html&_UserReference=C0A804EC46511D8AC2136753E12F3B6AD79E" 
+ target="new">Full text article at http://www.nature.com</a>
+<!-- <img src="/gifs/nature_struct_bio_small.gif" border=0 alt="Nature Structural Biology"></a>  -->
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11373610&dopt=Abstract" target="new">
+<!-- PubMed</a> -->
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 valign=bottom 
+alt="PubMed"></a>
+ | <a href="http://guitar.rockefeller.edu/pdf/099_SaliNSB2001.pdf" target="new">
+<img src="http://guitar.rockefeller.edu/gifs/pdfsml.gif" border=0 valign=bottom 
+alt="PDF"></a> 
+<!-- <img src="/gifs/pdficons.gif" border=0 valign=bottom 
+alt="PDF"></a> --> 
+</li>   
+<br><br>
+
+<li value=98>
+P. Vergani, C. Basso, L. Csanady, D. Kopsco, R. Sanchez, A. Sali, A. C. 
+Nairn,
+  and D. C. Gadsby.
+ Roles of ATP binding and hydrolysis in CFTR Cl-channel gating.
+ <EM>Biophys. J.</EM>, 80:354A, 2001.
+</li>   
+<br><br>
+
+<li value=97>
+P. Vergani, C. Basso, L. Csanady, D. Kopsco, R. Sanchez, A. Sali, A. C. 
+Nairn,
+  and D. C. Gadsby.
+ Mutations near the predicted catalytic site of NBD1 in CFTR
+  subtly affect Cl- channel function.
+ <EM>J. Gen. Physiol.</EM>, 116:13A, 2001.
+</li>
+<br><br>
+
+<li value=96>   
+L. G. Barrientos, R. Campos-Olivas, J. M. Louis, A. Fiser, A. Sali, and A. 
+M.
+  Gronenborn.
+ H-1, C-13, N-15 resonance assignments and fold verification of a
+  circular permuted variant of the potent HIV-inactivating protein
+  cyanovirin-N.
+ <EM>J. Biomol. NMR</EM>, 19:289-290, 2001.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11330821&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>   
+<br><br>
+
+<li value=95>
+G. W. Wong, L. Li, M. S. Madhusudhan, S. A. Krilis, M. F. Gurish, M. E.
+  Rothenberg, A. Sali A, and R. L. Stevens.
+ Tryptase 4: A new member of the chromosome 17 family of mouse serine
+  proteases.
+ <EM>J. Biol. Chem.</EM>, 276:20648-20658, 2001.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.jbc.org/cgi/content/full/276/23/20648" target="new">Full text article at http://www.jbc.org</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11259427&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+ | <a href="http://guitar.rockefeller.edu/pdf/095_WongJBC2001.pdf" 
+target="new"><img src="/gifs/pdfsml.gif" border=0 valign=bottom
+alt="PDF"></a>
+ </li>
+<br><br>
+
+<li value=94>
+M. A. Mart&#237;-Renom, A. Fiser, M. S. Madhusudhan, B. Rost, and A. Sali.
+ Reliability of assessment of protein structure prediction methods at
+  CASP.
+ <EM>submitted</EM>.
+</li>
+<br><br>
+
+<li value=93>
+M. A. Mart&#237;-Renom and A. Sali.
+ DBAli: A database of alignments and tools for benchmarking protein
+  sequence-structure comparison.
+ <EM>Bioinformatics</EM>, in press.
+</li>
+<br><br>
+
+<li value=92>
+A. C. Stuart and A. Sali.
+ LigBase: A database of families of aligned ligand binding sites in
+  known protein sequences and structures.
+ <EM>Bioinformatics</EM>, submitted.
+</li>
+<br><br>
+
+<li value=91>
+V. Eyrich, M. A. Mart&#237;-Renom, D. Przybylski, A. Fiser, F. Pazos,
+  A. Valencia, A. Sali, and B. Rost.
+ EVA: continuous automatic evaluation of structure prediction
+  servers.
+ <EM>Bioinformatics</EM>, submitted.
+</li>
+<br><br>
+
+<li value=90>
+F. Melo, R. S&#225;nchez, and A. Sali. 
+ Statistical potentials for fold assessment.
+ <EM>Protein Science</EM>, submitted.
+</li>
+<br><br>  
+
+<li value=89>
+S. Gopal, M. Schroeder, U. Pieper, A. Sczyrba, G. Aytekin-Kurban, S. 
+Bekiranov,
+  E. J. Fajardo, N. Eswar, R. S&#225;nchez, A. Sali, and T. Gaasterland.
+ Homology-based annotation yields 1,042 new candidate genes in the
+  drosophila melanogaster genome.
+ <EM>Nat. Genet.</EM>, 27:337-340, 2001.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a 
+href="http://www.nature.com/cgi-taf/DynaPage.taf?file=/ng/journal/v27/n3/full/ng0301_337.html" target="new">Full text article at 
+http://www.nature.com</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11242120&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=88>
+C. M. Groft, R. Beckmann, A. Sali, and S. K. Burley.
+ Crystal structures of ribosome anti-association factor IF6.
+ <EM>Nat. Struct. Biol.</EM>, 7:1156-1164, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a 
+href="http://www.nature.com/cgi-taf/DynaPage.taf?file=/nsb/journal/v7/n12/full/nsb1200_1156.html" target="new">Full text article at 
+http://www.nature.com</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11101899&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=87>
+U. Pieper, N. Eswar, R. S&#225;nchez, N. Mirkovic, W. Lane, M. Sammut,
+  B. John, and A. Sali.
+ MODBASE, a database of annotated comparative protein
+  structure models.
+ <EM>Nucl. Acids Res.</EM>, page 
+<a href="http://www3.oup.co.uk/nar/database/summary/253" target="new">
+http://www3.oup.co.uk/nar/database/summary/253</a>, 2001.
+</li> 
+<br><br>
+
+<li value=86>
+A. Fiser, R. S&#225;nchez, F. Melo, and A. Sali.
+ Comparative protein structure modeling.
+ In M. Watanabe, B. Roux, A. MacKerell, and O. Becker, editors, <EM>
+  Computational Biochemistry and Biophysics, in press</EM>, pages 275-312. 
+Marcel Dekker, 2000.
+</li>
+<br><br>
+
+<li value=85>
+R. S&#225;nchez, U. Pieper, F. Melo, N. Eswar, M.A. Mart&#237;-Renom, M.S.
+  Madhusudhan, N. Mirkovic, and A. Sali.
+ Protein structure modeling for structural genomics.
+ <EM>Nat. Struct. Biol.</EM>, 7:986-990, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+ <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11104007&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>   
+<br><br>
+
+<li value=84>   
+S. Jin, S. Martinek, W. S. Joo, J. R. Wortman, N. Mirkovic,
+  A. Sali, M. D. Yandell, N. P., Pavletich, M. W. Young, and A. J.
+  Levine.
+ Identification and characterization of a p53 homologue in <EM>
+  Drosophila melanogaster</EM>.
+ <EM>Proc. Natl. Acad. Sci. USA</EM>, 97:7301-7306, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a
+href="http://www.pnas.org/cgi/content/full/97/13/7301"
+ target="new">Full text article at http://www.pnas.org</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10860994&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>   
+<br><br>
+
+<li value=83>
+W. Liedtke, Y. Choe, M. A. Mart&#237;-Renom, A. M. Bell, C. S. Denis,
+  A. Sali, A. J. Hudspeth, H. M. Friedman, and S. Heller.
+ Vanilloid receptor-related mechanically-activated channel
+  (VR-MARC), a candidate vertebrate mechanoreceptor.
+ <EM>Cell</EM>, 103:525-535, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a
+href="http://www.cell.com/cgi/content/full/103/3/525"
+ target="new">Full text article at http://www.cell.com</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11081638&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=82>
+A. Fiser, R. K. G. Do, and A. Sali.
+ Modeling of loops in protein structures.
+ <EM>Protein Science</EM>, 9:1753-1773, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+ <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11045621&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>   
+<br><br>
+
+<li value=81>
+G. Wu, H. G. Morrison, A. Fiser, A. G. McArthur, A. Sali, M. L. Sogin,
+  and M. M&#252;ller.
+ Core histones of the amitochondriate protist, <EM>Giardia
+  lamblia</EM>.
+ <EM>Mol. Biol. Evol.</EM>, 17:1156-1163, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a 
+href="http://www.molbiolevol.org/cgi/content/full/17/8/1156"
+ target="new">Full text article at http://www.molbiolevol.org</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10908635&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>   
+<br><br>
+
+<li value=80>
+R. S&#225;nchez and A. Sali.
+ Comparative protein structure modeling: Introduction and practical
+  examples with MODELLER.
+ In D. M. Webster, editor, <EM>Protein Structure Prediction: Methods
+  and Protocols</EM>, pages 97-129. Humana Press, 2000.
+</li>   
+<br><br>
+
+<li value=79>
+A. R. Dinner, A. Sali, L. J. Smith, C. M. Dobson, and M. Karplus.
+ Understanding protein folding via free-energy surfaces from theory
+  and experiment.
+ <EM>TIBS</EM>, 25:331-339, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10871884&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>   
+<br><br>
+
+<li value=78>
+R. S&#225;nchez, U. Pieper, N. Mirkovic, P. I. W. de Bakker,
+  E. Wittenstein, and A. Sali.
+ M<SMALL>OD</SMALL>B<SMALL>ASE</SMALL>, a database of annotated 
+comparative protein structure models.
+ <EM>Nucl. Acids Res.</EM>, 28:250-253, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://nar.oupjournals.org/cgi/content/full/28/1/250" target="new">Full text article at http://nar.oupjournals.org</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10592238&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>   
+<br><br>
+
+<li value=77>
+M. A. Mart&#237;-Renom, A. Stuart, A. Fiser, R. S&#225;nchez, F. Melo, and
+  A. Sali.
+ Comparative protein structure modeling of genes and genomes.
+ <EM>Ann. Rev. Biophys. Biomolec. Struct.</EM>, 29:291-325, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://biophys.annualreviews.org/cgi/content/full/29/1/291" target="new">Full text article at http://biophys.annualreviews.org</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10940251&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>   
+<br><br>
+
+<li value=76>
+C. Huang, G. Morales, A. Vagi, K. Chanasyk, M. Ferrazzi, C. Burklow, W. T. 
+Qiu,
+  E. Feyfant, A. Sali, and R. L. Stevens.
+ Formation of enzymatically active, homotypic and heterotypic
+  tetramers of mouse mast cell tryptases. Dependence on a conserved 
+Trp-rich domain on the surface.
+ <EM>J. Biol. Chem.</EM>, 275:351-358, 2000.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"   
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10617625&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li  value=75>
+A. Sali.
+ Functional links between proteins.
+ <EM>Nature</EM>, 402:23-26, 1999.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v402/n6757/full/402023a0_fs.html" target="new">Full text article at 
+http://www.nature.com</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10573411&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=74>
+A. Sali and J. Kuriyan.
+ Challenges at the frontiers of structural biology.
+ <EM>Trends Biochem. Sci.</EM>, 22:M20-M24, 1999.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10611675&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=73>
+S. K. Burley, S. C. Almo, J. B. Bonanno, , M. Capel, M. R. Chance,
+  T. Gaasterland, D. Lin, A. Sali, F. W. Studier, and S. Swaminathan.  
+ Structural genomics: beyond the Human Genome Project.
+ <EM>Nat. Genet.</EM>, 23:151-157, 1999.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.nature.com/cgi-taf/DynaPage.taf?file=/ng/journal/v23/n2/full/ng1099_151.html" target="new">Full text article at
+http://www.nature.com</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10508510&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=72>
+G. W. Wong, Y. Tang, E. Feyfant, A. Sali, C. Huang, and R. L. Stevens.
+ Identification of a new tryptase in mice and humans which possesses a
+  novel C-terminal, membrane spanning segment.
+ <EM>J. Biol. Chem.</EM>, 274:30784-30793, 1999.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.jbc.org/cgi/content/full/274/43/30784" target="new">Full text article at
+http://www.jbc.org</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10521469&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=71>
+J. M. Miwa, I. Ibanez-Tallon, G. W. Crabtree, R. S&#225;nchez, A. Sali,
+  L. W. Role, and N. Heintz.
+ lynx1, an endogenous toxin-like modulator of nicotinic acetylcholine
+  receptors in the mammalian CNS.
+ <EM>Neuron</EM>, 23:105-114, 1999.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<a href="http://www.neuron.org/cgi/content/full/23/1/105" target="new">Full text article at
+http://www.neuron.org</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10402197&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=70>
+T. Nagata, V. Gupta, W-Y. Kim, A. Sali, B. T. Chait, K. Shigesada,
+  Y. Ito, and M. H. Werner.
+ Immunoglobulin motif DNA recognition and heterodimerization for the
+  PEBP2/CBF Runt-domain.
+ <EM>Nat. Str. Biol.</EM>, 6:615-619, 1999.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"  
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">   
+<a href="http://www.nature.com/cgi-taf/DynaPage.taf?file=/nsb/journal/v6/n7/full/nsb0799_615.html" target="new">Full text article at
+http://www.nature.com</a>
+ | <a href="http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10404214&dopt=Abstract" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></a>
+</li>
+<br><br>
+
+<li value=69>
+G. Wu, A. Fiser, B. ter Kuile, A. Sali, and M. M&#252;ller.
+ Convergent evolution of <EM>Trichomonas vaginalis</EM> lactate
+  dehydrogenase from malate dehydrogenase.
+ <EM>Proc. Natl. Acad. Sci. USA</EM>, 96:6285-6290, 1999.
+</li>
+<br><br>
+
+<li value=68>
+R. S&#225;nchez and A. Sali.
+ Comparative protein structure modeling in genomics.
+ <EM>J. Comp. Phys.</EM>, 151:388-401, 1999.
+</li>
+<br><br>
+
+<li value=67>
+R. S&#225;nchez and A. Sali.
+ MODBASE: A database of comparative 
+protein structure models.
+ <EM>Bioinformatics</EM>, 15:1060-1061, 1999.
+</li>
+<br><br>
+
+<li value=66>
+A. Sali.
+ 100,000 protein structures for the biologist.
+ <EM>Nat. Struct. Biol.</EM>, 5:1029-1032, 1998.
+</li>
+<br><br>
+
+<li value=65>
+R. S&#225;nchez and A. Sali.
+ Large-scale protein structure modeling of the <EM>Saccharomyces
+  cerevisiae</EM> genome.
+ <EM>Proc. Natl. Acad. Sci. USA</EM>, 95:13597-13602, 1998.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html56"
+HREF="http://www.pnas.org/cgi/content/full/95/23/13597?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&author1=sali&searchid=QID_NOT_SET&stored_search=&FIRSTINDEX=" 
+target="new">Full Text</A> 
+</li>
+<br><br>
+
+<li value=64>
+E. Wolf, A. Vassilev, Y. Makino, A. Sali, Y. Nakatani, and S. K. Burley.
+ Crystal structure of a GCN5-related N-acetyltransferase: <EM>
+  Serratia marcescens</EM> aminoglycoside 3-N-acetyltransferase.
+ <EM>Cell</EM>, 94:51-61, 1998.
+</li>
+<br><br>
+
+<li value=63>
+A. Gutin, A. Sali, V. Abkevich, M. Karplus, and E. I. Shakhnovich.
+ Temperature dependence of the folding rate in a simple protein model:
+  Search for a ``glass'' transition.
+ <EM>J. Chem. Phys.</EM>, 108:6466-6483, 1998.
+</li>
+<br><br>
+
+<li value=62>
+D. A. Kandiah, A. Sali, Y. Sheng, E. J. Victoria, D. M. Marquis, S. M.
+  Coutts, and S. Krilis.
+ Current insights into the antiphospholipid syndrome: Clinical,
+  immunological and molecular aspects.
+ <EM>Adv. Immunol.</EM>, 70:507-563, 1998.
+</li>
+<br><br>
+
+<li value=61>
+C. Huang, A. Sali, and R. L. Stevens.
+ Regulation and function of mast cell proteases in inflammation.
+ <EM>J. Clin. Immunol.</EM>, 18:169-183, 1998.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html55"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9624576&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=60>
+C. M. Dobson, A. Sali, and M. Karplus.
+ Protein folding: A perspective from theory and experiment.
+ <EM>Angewandte Chemie Int. Ed.</EM>, 37:868-893, 1998.
+</li>
+<br><br>
+
+<li value=59>
+R. S&#225;nchez, A. Ya. Badretdinov, E. Feyfant, and A. Sali.
+ Homology protein structure modeling.
+ <EM>Transactions Amer. Cryst. Assoc.</EM>, 32:81-91, 1997.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+A review of MODELLER and its evaluation. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html53"
+HREF="http://guitar.rockefeller.edu/publications/papers/aca-97/html/paper.html" 
+target="new">HTML</A>
+ | 
+<A NAME="tex2html54"
+HREF="http://guitar.rockefeller.edu/publications/papers/aca-97/postscript/paper.ps" 
+target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>
+<br><br>
+
+<li value=58>
+B. Guenther, R. Onrust, A. Sali, M. O'Donnell, and J. Kuriyan.
+ Crystal structure of the <IMG
+ WIDTH="8" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ SRC="img6.png"
+ ALT="$\delta$">' subunit of the clamp-loader
+  complex of <EM>E. coli</EM> DNA polymerase III.
+ <EM>Cell</EM>, 91:335-345, 1997.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html52"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9363942&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=57>
+R. S&#225;nchez and A. Sali.
+ Evaluation of comparative protein structure modeling by MODELLER-3.
+ <EM>Proteins</EM>, Suppl. 1:50-58, 1997.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+An evaluation of three homology models submitted to the CASP2
+  conference. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html49"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9485495&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+ | <A NAME="tex2html50"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/asilomar-96/html/asi.html" 
+target="new">HTML</A>
+ | <A NAME="tex2html51"
+ HREF="http://guitar.rockefeller.edu/publications/papers/asilomar-96/postscript/as
+i.ps" target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" 
+ALT="PostScript"></A>
+</li>
+<br><br>
+
+<li value=56>
+J. E. Hunt, D. S. Friend, M. F. Gurish, E. Feyfant, A. Sali, C. Huang,
+  N. Ghildyal, S. Stechshulte, K. Frank Austen, and R. L. Stevens.
+ Mouse mast cell protease (mMCP) 9, a novel member of the chromosome
+  14 family of serine proteases that is selectively expressed in uterine 
+mast
+  cells.
+ <EM>J. Biol. Chem.</EM>, 46:29158-29166, 1997.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html48"
+HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9360993&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=55>
+D. Koulich, M. Orlova, A. Malhotra, A. Sali, S. A. Darst, and
+  S. Borukhov.
+ Domain organization of <EM>Escherichia coli</EM> transcript cleavage
+  factors GreA and GreB.
+ <EM>J. Biol. Chem.</EM>, 272:7201-7210, 1997.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html47"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9054416&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=54>
+R. S&#225;nchez and A. Sali.
+ Advances in comparative protein-structure modeling.
+ <EM>Curr. Opin. Struct. Biol.</EM>, 7:206-214, 1997.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html44"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9094331&amp;form=6&amp;db=m
+&amp;Dopt=r" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+ | <A NAME="tex2html45"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/cosb-96/html/rev.html" 
+target="new">HTML</A>
+ | <A NAME="tex2html46"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/cosb-96/postscript/rev.ps" 
+target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>
+<br><br>
+
+<li value=53>
+R. S&#225;nchez and A. Sali.
+ Comparative protein modeling as an optimization problem.
+ <EM>Journal of Molecular Structure (Theochem)</EM>, 398:489-496, 1997.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html42"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/watoc96/html/paper.html" 
+target="new">HTML</A>
+ | <A NAME="tex2html43"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/watoc96/postscript/paper.ps" 
+target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>
+<br><br>
+
+<li value=52> 
+C. Huang, G. W. Wong, N. Ghildyal, M. F. Gurish, A. Sali, R. Matsumoto,
+  W.-T. Qiu, and R. L. Stevens.
+ The tryptase, mouse mast cell protease 7, exhibits anticoagulant
+  activity <EM>in vivo</EM> and <EM>in vitro</EM> due to its ability to degrade
+  fibrinogen in the presence of the diverse array of protease inhibitors in
+  plasma.
+ <EM>J. Biol. Chem.</EM>, 272:31885-31893, 1997.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html41"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9395536&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=51>
+M. Russel, N. A. Linderoth, and A. Sali.
+ Filamentous phage assembly: Variation on a protein export theme.
+ <EM>Gene</EM>, 192:23-32, 1997.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html40"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9224870&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=50>
+S. Wu, H. de Lencastre, A. Sali, and A. Tomasz.
+ A phosphoglucomutase-like gene essential for the optimal expression
+  of methicillin resistance in <EM>Staphylococcus aureus</EM>: Molecular cloning
+  and DNA sequencing.
+ <EM>Microbial Drug Resistance</EM>, 2:277-286, 1996.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html39"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9158773&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=49>
+A. R. Dinner, A. Sali, and M. Karplus.
+ The folding mechanism of larger model proteins: Role of native
+  structure.
+ <EM>Proc. Natl. Acad. Sci. USA</EM>, 98:8356-8361, 1996.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html37"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=8710875&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+| <A NAME="tex2html38"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/dinner96/postscript/pnas96.ps" 
+target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>
+<br><br>
+
+<li value=48>
+L. Z. Xu, R. S&#225;nchez, A. Sali, and N. Heintz.
+ Ligand specificity of brain lipid binding protein.
+ <EM>J.Biol.Chem.</EM>, 271:24711-24719, 1996.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+A comparative model of brain lipid binding protein is used to
+  suggest mutations for exploring ligand specificity. The mutants were
+  expressed and validated experimentally. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html36"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=8798739&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=47>
+N. Ghildyal, D. S. Friend, R. L. Stevens, K. F. Austen, C. Huang, J. Penrose,
+  A. Sali, and M. F. Gurish.
+ Fate of two mast cell tryptases following passive systemic
+  anaphylaxis of BALB/c and V3 mastocytosis mice. Prolonged retention of
+  exocytosed mMCP-6 in connective tissues and rapid accumulation of
+  enzymatically active mMCP-7 in the blood chymases.
+ <EM>J. Exp. Med.</EM>, 184:1061-1073, 1996.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html35"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9064323&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=46>
+Y. Sheng, A. Sali, H. Herzog, J. Lahnstein, and S. Krilis.
+ Modelling, expression and site-directed mutagenesis of human
+  <IMG
+ WIDTH="14" HEIGHT="19" ALIGN="MIDDLE" BORDER="0"
+ SRC="img5.png"
+ ALT="$\beta_2$">-glycoprotein I: Identification of the major phospholipid
+  binding site.
+ <EM>J. Immunol.</EM>, 157:3744-3751, 1996.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html34"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=8871678&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>
+<br><br>
+
+<li value=45>
+A. Sali.
+ Modelling mutations and homologous proteins.
+ <EM>Curr. Opin. Biotech.</EM>, 6:437-451, 1995.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html31"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7579655&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+ | <A NAME="tex2html32"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/cob-95/html/rev.html" 
+target="new">HTML</A>
+ | <A NAME="tex2html33"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/cob-95/postscript/rev.ps" 
+target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>
+<br><br>
+
+<li value=44>
+A. Sali, L. Potterton, F. Yuan, H. van Vlijmen, and M. Karplus.
+ Evaluation of comparative protein structure modeling by MODELLER.
+ <EM>Proteins</EM>, 23:318-326, 1995.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+An evaluation of three homology models submitted to the CASP1
+  conference. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html29"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=8710825&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+ | <A NAME="tex2html30"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/asilomar-94/postscript/asi-t.ps" 
+target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>
+<br><br>
+
+<li value=43>   
+A. Sali, E. Shakhnovich, and M. Karplus.
+ Thermodynamics and kinetics of protein folding from lattice Monte
+  Carlo simulations.
+ In D. Shalloway, G. Xue, and P. Pardalos, editors, <EM>Global
+  Minimization of Nonconvex Functions: Molecular Conformation and Protein
+  Folding</EM>, volume 23, pages 199-213. American Mathematical Society, 1995.
+ DIMACS Series in Discrete Mathematics and Theoretical Computer
+  Science.
+</li>   
+<br><br>
+
+<li value=42>   
+A. Sali, E. Shakhnovich, and M. Karplus.
+ Protein folding studied by Monte Carlo simulations.
+ In H. Bohr and S. Brunak, editors, <EM>Protein Folds: A Distance
+  Based Approach</EM>, pages 202-216. CRC Press Inc., Florida, USA., 1995.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html28"
+ HREF="http://guitar.rockefeller.edu/publications/papers/kopenhagen94/postscript/k
+opi-t.ps" target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>   
+<br><br>
+
+<li value=41>   
+A. Sali.
+ Protein modeling by satisfaction of spatial restraints.
+ <EM>Molecular Medicine Today</EM>, 1:270-277, 1995.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html25"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=9415161&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+ | <A NAME="tex2html26"
+ 
+HREF="http://guitar.rockefeller.edu/publications/papers/molmed-95/html/rev.html" 
+target="new">HTML</A>
+ | <A NAME="tex2html27"
+ HREF="http://guitar.rockefeller.edu/publications/papers/molmed-95/postscript/rev.
+ps" target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>   
+<br><br>
+
+<li value=40>   
+R. Matsumoto, A. Sali, N. Ghildyal, M. Karplus, and R. L. Stevens.
+ Packaging of proteases and proteoglycans in the granules of mast
+  cells and other hematopoietic cells. A cluster of histidines in mouse mast
+  cell protease-7 regulates its binding to heparin serglycin proteoglycan.
+ <EM>J. Biol. Chem.</EM>, 270:19524-19531, 1995.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+Mouse mast cell tryptase 7 is modelled by  MODELLER. The
+  heparin binding site is predicted from the electrostatic potential around the
+  model. The location of the site is confirmed by site-directed mutagenesis
+  experiments. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html24"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7642636&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=39>   
+X. Wu, B. Knudsen, S. M. Feller, J. Zheng, A. Sali, D. Cowburn,
+  H. Hanafusa, and J. Kuriyan.
+ Structural basis for the specific interaction of lysine-containing
+  proline-rich peptides with the amino-terminal SH3 domain of c-crk.
+ <EM>Structure</EM>, 15:215-226, 1995.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html23"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7735837&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=38>   
+A. Sali.
+ MODELER: Implementing 3D protein modeling.
+ In <I>mc</I><SUP>2</SUP>, volume 2, page 5. Molecular Simulations Inc.,
+  Burlington, MA, 1995.
+</li>   
+<br><br>
+
+<li value=37>   
+M. Karplus, A. Caflisch, A. Sali, and E. Shakhnovich.
+ Protein dynamics: From the native to the unfolded state and back
+  again.
+ In A. Pullman et al., editor, <EM>Modelling of Biomolecular
+  Structures and Mechanisms</EM>, pages 69-84. Kluwer Academic Publishers,
+  Dordrecht, Netherlands, 1995.
+</li>   
+<br><br>
+
+<li value=36>   
+M. Karplus and A. Sali.
+ Theoretical studies of protein folding and unfolding.
+ <EM>Curr. Opin. Struct. Biol.</EM>, 5:58-73, 1995.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html22"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7773748&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=35>   
+A. Dinner, A. Sali, M. Karplus, and E. Shakhnovich.
+ Phase diagram of a model protein derived by exhaustive enumeration of
+  the conformations.
+ <EM>J. Chem. Phys.</EM>, 101:1444-1451, 1994.
+</li>   
+<br><br>
+
+<li value=34>   
+A. Sali, E. I. Shakhnovich, and M. Karplus.
+ How does a protein fold?
+ <EM>Nature</EM>, 369:248-251, 1994.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+The folding mechanism for a random 27-mer heterpolymer
+  sequence on the cubic lattice is described. This three-stage random search
+  mechanism explains why the pronounced global energy minimum is necessary and
+  sufficient for rapid folding. Evolutionary implications of this model are
+  discussed. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html20"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7710478&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+ | <A NAME="tex2html21"
+ HREF="http://guitar.rockefeller.edu/publications/papers/nature94/postscript/333_s
+i-t.ps" target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>   
+<br><br>
+
+<li value=33>   
+A. Sali, E. I. Shakhnovich, and M. Karplus.
+ Kinetics of protein folding: A lattice model study of the
+  requirements for folding to the native state.
+<EM>J. Mol. Biol.</EM>, 235:1614-1636, 1994.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+This study addresses the question of the differences between
+  the folding and non-folding sequences using the 27-mer heteropolymer model on
+  the cubic lattice and MC dynamics. The pronounced global energy minimum is
+  found to be a sufficient and necessary condition that a sequence be a folding
+  sequence. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html19"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=8107095&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=32>   
+A. Sali and J.P Overington.
+Derivation of rules for comparative protein modeling from a database
+  of protein structure alignments.
+<EM>Protein Sci.</EM>, 3:1582-1596, 1994.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+A database of protein structure alignments and tools for its
+  use are described. The database is applied to derive spatial restraints on
+  disulphide bridges and <EM>cis/trans</EM> isomerism of Pro residues that are
+  used for comparative modelling by  MODELLER. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html17"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7833817&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+ | <A NAME="tex2html18"
+ HREF="http://guitar.rockefeller.edu/publications/papers/albase-94/postscript/lbas
+ei-t.ps" target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>   
+<br><br>
+
+<li value=31>   
+A. Sali and T. L. Blundell.
+ Comparative protein modelling by satisfaction of spatial restraints.
+ In H. Bohr and S. Brunak, editors, <EM>Protein Structure by Distance
+  Analysis</EM>, pages 64-86. IOS Press, Amsterdam, 1994.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+An update on  MODELLER.
+</li>   
+<br><br>
+
+<li value=30>   
+A. Sali, R. Matsumoto, H. P. McNeil, M. Karplus, and R. L. Stevens.
+ Three-dimensional models of four mouse mast cell chymases.
+  Identification of proteoglycan-binding regions and protease-specific
+  antigenic epitopes.
+ <EM>J. Biol. Chem.</EM>, 268:9023-9034, 1993.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+Mouse mast cell chymases are modelled by  MODELLER. The
+  locations of the putative heparin binding sites are predicted from the
+  electrostatic potential around the models. The protease specific antigenic
+  epitopes are also identified. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html16"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=7682557&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=29>   
+A. Sali and T. L. Blundell.
+ Comparative protein modelling by satisfaction of spatial restraints.
+ <EM>J. Mol. Biol.</EM>, 234:779-815, 1993.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+An automated method for homology modelling is described. An
+  alignment between the target sequence and the templates is used to derive
+  spatial restraints expressed as conditional probability density functions.
+  The 3D model is obtained by minimizing violations of restraints. A test
+  case is evaluated. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html14"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=8254673&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+ | <A NAME="tex2html15"
+ HREF="http://guitar.rockefeller.edu/publications/papers/model-93/postscript/model
+i-t.ps" target="new">
+<IMG SRC="/gifs/PostScript.gif" VALIGN="BOTTOM" BORDER="0" ALT="PostScript"></A>
+</li>   
+<br><br>
+
+<li value=28>   
+J. P. Overington, Z.-Y. Zhu, A. Sali, M. S. Johnson, R. Sowdhamini, G. V.
+  Louie, and T. L. Blundell.
+ Molecular recognition in protein families: A database of aligned
+  three-dimensional structures of related proteins.
+ <EM>Biochem. Soc. Trans.</EM>, 21:597-604, 1993.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+A collection of many multiple alignments of protein 3D
+  structures. 
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html13"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=8224474&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=27>   
+M. S. Johnson, J. P. Overington, A. Sali, and T. L. Blundell.
+ From the comparative analysis of proteins to similarity-based
+  modelling.
+ In V. A. Ratner and N. A. Kolchanov, editors, <EM>Modelling and
+  computer methods in molecular biology and genetics</EM>, pages 191-196. Nova
+  Science Publishers, 6080 Jericho Turnpike, Commack, New York 11725, 1992.
+ <IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+Reports of International Conference, Novosibirsk, August 28 -
+  September, 1990.
+</li>   
+<br><br>
+
+<li value=26>   
+J. Overington, D. Donnelly, M. S. Johnson, A. Sali, and T. L. Blundell.
+ Environment-specific amino acid substitution tables: Tertiary
+  templates and prediction of protein folds.
+ <EM>Protein Sci.</EM>, 1:216-226, 1992.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html12"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=1304904&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=25>   
+Z.-Y. Zhu, A. Sali, and T. L. Blundell.
+ A variable gap penalty function and feature weights for protein 3-D
+  structure comparisons.
+ <EM>Protein Eng.</EM>, 5:43-51, 1992.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html11"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=1631045&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=24>   
+B. Veerapandian, J. B. Cooper, A. Sali, T. L. Blundell, R. L. Rosati,
+  B. W. Dominy, D. B. Damon, and D. J. Hoover.
+ Direct observation by x-ray analysis of a tetrahedral intermediate of
+  aspartic proteinases.
+ <EM>Protein Sci.</EM>, 1:322-328, 1992.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html10"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=1304340&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=23>   
+A. Sali, B. Veerapandian, J. B. Cooper, D. S. Moss, T. Hofmann, and T. L.
+  Blundell.
+ Domain flexibility in aspartic proteinases.
+ <EM>Proteins</EM>, 12:158-170, 1992.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html9"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=1603805&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=22>   
+A. Sali, J. P. Overington, M. S. Johnson, and T. L. Blundell.
+ From modelling homologous proteins to prediction of structure.
+ In J. M. Goodfellow and D. S. Moss, editors, <EM>Computer Modelling
+  of Biomolecular Processes</EM>, pages 231-245. Ellis Horwood Ltd., New York,
+  1991.
+</li>   
+<br><br>
+
+<li value=21>   
+T. L. Blundell, J. B. Cooper, D. Donnelly, H. Driessen, Y. Edwards,
+  F. Eisenmenger, C. Frazao, M. Johnson, K. Niefind, M. Newman, J. Overington,
+  A. Sali, C. Slingsby, V. Nalini, and Z.-Y. Zhu.
+ Patterns of sequence variation in families of homologous proteins.
+ In H. J&#246;rnval, H&#246;&#246;g, and Gustavsson, editors, <EM>
+  Methods in Protein Sequence Analysis</EM>, pages 373-385. Birkhauser Verlag,
+  Basel, 1991.
+</li>   
+<br><br>
+
+<li value=20>   
+T. L. Blundell, J. B. Cooper, A. Sali, and Z.-Y. Zhu.
+ Comparisons of the sequences, 3-D structures and mechanism of
+  pepsin-like and retroviral aspartic proteinases.
+ In <EM>Structure and Function of the Aspartic Proteinases: Genetics,
+  Structures, and Mechanisms</EM>, pages 443-453. Plenum Publishing Company, New
+  York, 1991.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html8"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=1812741&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=19>   
+T. L. Blundell, M. S. Johnson, J. P. Overington, and A. Sali.
+ Knowledge-based protein modeling and the design of novel molecules.
+ In J. B. Hook and G. Poste, editors, <EM>Protein design and the
+  development of new therapeutics and vaccines</EM>, pages 209-227. Plenum Press,
+  New York, 1990.
+</li>   
+<br><br>
+
+<li value=18>   
+M. S. Johnson, J. Overington, A. Sali, Z. Zhu, D. Donnelly, P. Thomas,
+  A. McLeod, R. Goold, C. Topham, and T. L. Blundell.
+ From comparative structure analysis to protein engineering:
+  Knowledge-based protein modelling and design.
+ <EM>Fresnius J. Anal. Chem.</EM>, 337:1-3, 1990.
+</li>   
+<br><br>
+
+<li value=17>   
+M. S. Johnson, J. P. Overington, and A. Sali.
+ Knowledge-based protein modelling: Human plasma kallikrein and human
+  neutrophil defensin.
+ In J. J. Villafranca, editor, <EM>Current Research in Protein
+  Chemistry: Techniques Structure and Function</EM>, pages 567-574. Academic
+  Press, Inc., San Diego, 1990.
+</li>   
+<br><br>
+
+<li value=16>   
+M. S. Johnson, A. Sali, and T. L. Blundell.
+ Phylogenetic relationships from three-dimensional protein structures.
+ <EM>Meth. Enzymol.</EM>, 183:670-690, 1990.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html7"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=2156133&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=15>   
+J. P. Overington, M. S. Johnson, C. Topham, A. McLeod, A. Sali, Z.-Y.
+  Zhu, L. Sibanda, and T. L. Blundell.
+ Applications of environment specific amino acid substitution tables
+  to identification of key residues in protein tertiary structure.
+ <EM>Current Science</EM>, 59:867-874, 1990.
+</li>   
+<br><br>
+
+<li value=14>   
+J. Overington, M. S. Johnson, A. Sali, and T. L. Blundell.
+ Tertiary structural constraints on protein evolutionary diversity;
+  templates, key residues and structure prediction.
+ <EM>Proc. Roy. Soc. Lond.</EM>, B 241:132-145, 1990.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html6"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=1978340&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=13>   
+B. Veerapandian, J. B. Cooper, A. Sali, and T. L. Blundell.
+ X-ray analyses of aspartic proteinases III. Three-dimensional
+  structure of endothiapepsin complexed with a transition-state isostere
+  inhibitor of renin at 1.6AA resolution.
+ <EM>J. Mol. Biol.</EM>, 216:1017-1029, 1990.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html5"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=2266553&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=12>   
+A. Sali, J. P. Overington, M. S. Johnson, and T. L. Blundell.
+ From comparisons of protein sequences and structures to protein
+  modelling and design.
+ <EM>TIBS</EM>, 15:235-240, 1990.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html4"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=2200167&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=11>   
+A. Sali and T. L. Blundell.
+ Definition of general topological equivalence in protein structures:
+  A procedure involving comparison of properties and relationships through
+  simulated annealing and dynamic programming.
+ <EM>J. Mol. Biol.</EM>, 212:403-428, 1990.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html3"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=2181150&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=10>   
+T. L. Blundell, D. Carney, T. Hubbard, M. S. Johnson, A. McLeod, J. P.
+  Overington, A. Sali, M. S. Sutcliffe, and P. Thomas.
+ Knowledge-based protein modelling and design.
+ In H. Bloecker, J. Collins, R. D. Schmid, and D. Schomburg, editors,
+  <EM>Advances in Protein Design: International Workshop 1988 GBF Monographs
+  12</EM>, pages 39-43. VCH, Braunschweig, 1989.
+</li>   
+<br><br>
+
+<li value=9>   
+T. L. Blundell, G. Elliot, S. P. Gardner, T. Hubbard, S. Islam, M. Johnson,
+  D. Mantafounis, P. Murray-Rust, J. Overington, J. E. Pitts, A. Sali,
+  B. L. Sibanda, J. Singh, M. J. E. Sternberg, M. J. Sutcliffe, J. M. Thornton,
+  and P. Travers.
+ Protein engineering and design.
+ <EM>Phil. Trans. Roy. Soc. Lond.</EM>, B 324:447-460, 1989.
+</li>   
+<br><br>
+
+<li value=8>   
+A. Sali, B. Veerapandian, J. B. Cooper, S. I. Foundling, D. J. Hoover,
+  and T. L. Blundell.
+ High-resolution x-ray diffraction study of the complex between
+  endothiapepsin and an oligopeptide inhibitor: The analysis of the inhibitor
+  binding and description of the rigid body shift in the enzyme.
+ <EM>EMBO J.</EM>, 8:2179-2188, 1989.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html2"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=2676515&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=7>   
+V. Turk, R. Jerala, B. Lenar<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">i<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">,
+and A. Sali.
+ Structural and functional aspects of human cathepsins B, H and
+  L and their endogeneous protein inhibitors stefins.
+ In N. Katunuma and E. Kominami, editors, <EM>Intracelullar
+  Proteolysis: Mechanisms and Regulations</EM>, pages 27-37. Japan Scientific
+  Societies Press, Tokyo, 1989.
+</li>   
+<br><br>
+
+<li value=6>   
+T. Lah, I. Kregar, A. Sali, B. Lenar<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">i<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">,
+M. Kotnik,
+  V. Kostka, and V. Turk.
+ Circular dichroism studies of different aspartyl proteinases and
+  their interactions with pepstatin.
+ <EM>Periodicum Biologorum</EM>, 90:31-38, 1988.
+</li>   
+<br><br>
+
+<li value=5>    
+A. Sali and V. Turk.
+ Prediction of the secondary structure of stefins and cystatins, the
+  low mr protein inhibitors of cysteine proteinases.
+ <EM>Biol. Chem. Hoppe-Seyler</EM>, 368:493-499, 1987.
+
+<img WIDTH="10" HEIGHT="10" ALIGN="BOTTOM" BORDER="0"
+ src="/gifs/smttr_rd.gif" alt="Small Arrow">
+<A NAME="tex2html1"
+ HREF="http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?uid=3497644&amp;form=6&amp;db=m
+&amp;Dopt=b" target="new">
+<img src="/gifs/entrez_pubmed_small1.gif" border=0 alt="PubMed"></A>
+</li>   
+<br><br>
+
+<li value=4>   
+M. Kotnik, A. Sali, J. Kos, B. Turk, and V. Turk.
+ Nova metoda za hitro dolo<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">anje kineti<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">nih konstant pri
+  interakciji encima s kompetitivnim inhibitorjem (A new method for rapid
+  determination of kinetic constants for competitive inhibition of enzymes).
+ <EM>Vestn. Slov. Kem. Dru</EM><IMG
+ WIDTH="4" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img2.png"
+ ALT="\v{s}"><EM>.</EM>, 34:369-377, 1987.
+</li>   
+<br><br>
+
+<li value=3>   
+V. Turk, J. Brzin, B. Lenar<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">i<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">,
+A. Sali, and W. Machleidt.
+ Human stefins and cystatins: Their properties and structural
+  relationships.
+ In V. Turk, editor, <EM>Cysteine proteinases and their inhibitors</EM>,
+  pages 429-441. Walter de Gruyter, Berlin, 1986.
+</li>   
+<br><br>
+
+<li value=2>   
+B. Lenar<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">i<IMG
+ WIDTH="5" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img3.png"
+ ALT="\v{c}">,
+A. Ritonja, A. Sali, M. Kotnik, V. Turk, and
+  W. Machleidt.
+ Properties and structure of human spleen stefin B - a low
+  molecular weight protein inhibitor of cysteine proteinases.
+ In V. Turk, editor, <EM>Cysteine proteinases and their inhibitors</EM>,
+  pages 473-487. Walter de Gruyter, Berlin, 1986.
+</li>   
+<br><br>
+
+<li value=1>   
+M. Renko, A. Sali, V. Turk, M. Pokorny, and I. Kregar.
+ A neutral metalloproteinase from <EM>Streptomyces rimosus</EM>.
+ <EM>Vestn. Slov. Kem. Dru</EM><IMG
+ WIDTH="4" HEIGHT="7" ALIGN="BOTTOM" BORDER="0"
+ SRC="img2.png"
+ ALT="\v{s}"><EM>.</EM>, 32/2:161-173, 1985.
+</li>   
+<br><br>
+
+<!-- linda<li>
+</li>
+<br><br>
+
+<IMG
+ WIDTH="8" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"
+ SRC="img4.png"
+ ALT="$\bullet$">
+
+
+<a href="" target="new">Full Text</a> 
+<a href="" target="new">PubMed</a> -->
+
+
+</ol>
+</font></p>
+
+<P><font color="#000080" face="Helvetica,Verdana,Arial">
+<BR><HR>
+<ADDRESS>
+<I>Andrej Sali</I>
+<BR><I>2001-06-09</I>
+</ADDRESS>
+
+</td>
+
+</tr>
+</table>
+
+</body>
+</html>            
+ 
+
