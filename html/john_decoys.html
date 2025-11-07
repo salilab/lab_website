@@ -1,0 +1,52 @@
+{% extends "_layout.html" %}
+
+{% block body %}
+<div id="fullpart">
+<p>&nbsp;</p>
+<h2>Decoy models</h2>
+
+<p>20 sequences were randomly selected from the Fischer set of 68 pairs of remotely
+      related protein structures from 51 to 568 residues in size. For each sequence,
+      300 comparative models were built using its closest structurally related
+      sequence as the template. The models were built using alignments that shared
+      no more than 95% of identically aligned positions or had at least 5 different
+      alignment positions. A single comparative model of the target sequence that
+      contains all non-hydrogen atoms was built for each alignment by MODELLER-6,
+      applying the default model building routine .model. with fast refinement.
+</p>
+
+<p>The alignments were obtained by a genetic algorithm protocol (John, B and Sali, A in press)
+        that produced alignments uniformly spanning from 0 to 100%
+          of correctly aligned positions with respect to the CE structure-based
+        alignment.
+</p>
+
+<p>Directory Structure:</p>
+
+<p> Each subdirectory
+      under John-2002 contains models numbered from 1-301 *. model 1.pdb.NATIVE
+      is the native structure (X-ray)
+      for the region modeled ( models 1-301). The name of the subdirectory is
+      the
+          PDB code
+            of the modeled sequence. In addition, the file .list-with-native.
+      contains the C-alpha RMSD of the models with respect to their X-ray structures
+          (there is a description in the file too). *4 of the subdirectories
+      have
+          more than
+            300 models, please ignore models above 301.
+</p>
+
+<p>The models can be downloaded at: <a href="https://salilab.org/ftp/decoys/">https://salilab.org/ftp/decoys/comp_models.tar.gz</a>
+</p>
+
+<p>Publication: <a href="http://www.salilab.org/publications/index.php?keywords=&sauthor=&title=Comparative+Protein+Structure+Modeling+by+Iterative+Alignment%2C+Model+Building%2C+and+Model+Assessmen&journal=&year=&Do=GetHits&format=html">Comparative
+          Protein Structure Modeling by Iterative Alignment, Model Building, and
+        Model Assessment </a>
+</p>
+
+<hr>
+
+<p><i>4 of the subdirectories have more than 300 models, please ignore models above 301</i></p>
+</div>
+{% endblock %}
