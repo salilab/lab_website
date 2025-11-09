@@ -1,0 +1,35 @@
+{% extends "_layout.html" %}
+
+{% block body %}
+<div id="fullpart">
+<p>&nbsp;</p>
+            <h2>GST</h2>
+ <p>
+<h3>Virtual screening library</h3>
+
+<p>
+List of smiles for substrates in the docking library: <a href="substrates.txt">substrates.txt</a><br>
+The python dictionary that maps a substrates to its products: <a href="substrate_product.pickle">substrate_product.pickle</a>
+<br>
+The python dictionary that maps a product smile to its name: <a href="product_name.pickle">product_name.pickle</a><br>
+The parameter files for products: <a href="parameters.tar.gz">parameters.tar.gz</a>
+<br>
+</p>
+
+
+<h3>Docking receptors</h3>
+<p>
+Prepared receptors of GST enzymes : <a href="receptors.tar.gz">receptors.tar.gz</a>.<br>
+Comparative models of GST enzymes: <a href="models.tar.gz" target=_blank>models.tar.gz</a>.<br>
+&nbsp;<br>
+</p>
+
+<h3>Scripts</h3>
+<p>
+Scripts for generating the virtual screening library, preparing the docking receptors, carring out the docking and analyze the docking results:<a href="docking.py" target=_blank>docking.py</a>.<br>   
+&nbsp;<br>
+</p>
+
+
+</div> <!-- end div fullpart -->
+{% endblock %}
