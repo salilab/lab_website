@@ -53,7 +53,10 @@ def install_dir(srcdir, destdir):
             print(f"mkdir {destdirpath}")
             destdirpath.mkdir()
         for f in filenames:
-            if f.endswith('.html'):
+            # Don't install hidden files or Jinja templates
+            if f.startswith('.'):
+                continue
+            elif f.endswith('.html'):
                 if f.startswith('_'):
                     continue
                 else:
