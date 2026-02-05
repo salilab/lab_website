@@ -1,5 +1,8 @@
 Source files for parts of the Sali Lab website.
 
+(If you are looking for the IMP website, that is in
+[its own repository](https://github.com/salilab/imp_website/).)
+
 The `make-jinja.py` Python script builds the actual website from the sources:
 
  - HTML files with a leading underscore are
